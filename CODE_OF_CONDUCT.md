@@ -21,11 +21,15 @@ We are a small team and a small community. We want it to feel like a good place 
 
 Maintainers may edit or remove content, warn people, and block accounts from our spaces (GitHub, the website, Discord). We decide case by case and try to be fair.
 
+## Our Steam group tag
+
+If you wear the Deadlock Ink clan tag on Steam, you represent us a little. Follow this code, and we will remove the tag from anyone who does not. The tag is a gift, not a right.
+
 ## Reporting
 
 If someone treats you badly, tell us through the contact options on [abyssc0re.com](https://abyssc0re.com). We read every report and keep it private.
 
-This code applies in all Deadlock Ink spaces: this organization on GitHub, the website, and our community channels.
+This code applies in all Deadlock Ink spaces: this organization on GitHub, the website, our Steam group, and our community channels.
 
 ---
 
@@ -52,8 +56,12 @@ This code applies in all Deadlock Ink spaces: this organization on GitHub, the w
 
 Супровідники можуть редагувати чи видаляти повідомлення, попереджати й блокувати акаунти в наших просторах (GitHub, сайт, Discord). Ми розглядаємо кожен випадок окремо й намагаємося бути справедливими.
 
+## Наш тег Steam-групи
+
+Якщо ви носите клан-тег Deadlock Ink у Steam, ви трохи представляєте нас. Дотримуйтесь цього кодексу, а в тих, хто не дотримується, ми тег знімемо. Тег це подарунок, а не право.
+
 ## Як повідомити
 
 Якщо з вами повелися погано, напишіть нам через контакти на [abyssc0re.com](https://abyssc0re.com). Ми читаємо кожне звернення й зберігаємо його конфіденційно.
 
-Кодекс діє в усіх просторах Deadlock Ink: ця організація на GitHub, сайт і канали спільноти.
+Кодекс діє в усіх просторах Deadlock Ink: ця організація на GitHub, сайт, наша група в Steam і канали спільноти.
